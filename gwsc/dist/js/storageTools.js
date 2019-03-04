@@ -1,0 +1,1 @@
+"use strict";define(function(t,e,n){n.exports={get:function(t){return sessionStorage.getItem(t)},set:function(t,e){sessionStorage.setItem(t,e)},isLogin:function(t){return null!=JSON.parse(this.get(t)||"{}").utel}}});

@@ -1,0 +1,154 @@
+[
+  {
+    "gid": "1",
+    "gName": "所然原创时尚改良汉服外套",
+    "gPrice": "899",
+    "gImg": "./../server/images/yx_pic1.jpg",
+    "mImg": [
+      "./../server/images/yx_pic1.jpg",
+      "./../server/images/pro1_m1.jpg",
+      "./../server/images/pro1_m3.jpg",
+      "./../server/images/pro1_m4.jpg",
+      "./../server/images/pro1_m5.jpg"
+    ],
+    "bImg": [
+      "./../server/images/pro1_b1.jpg",
+      "./../server/images/pro1_b2.jpg",
+      "./../server/images/pro1_b3.jpg",
+      "./../server/images/pro1_b4.jpg",
+      "./../server/images/pro1_b5.jpg"
+    ],
+    "colors": [
+      {
+        "colorName": "中国红",
+        "colorImg": "./../server/images/pro1_s1.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "indexImg": [
+      "./../server/images/pro1_xs1.jpg",
+      "./../server/images/pro1_xs2.jpg",
+      "./../server/images/pro1_xs3.jpg",
+      "./../server/images/pro1_xs4.jpg",
+      "./../server/images/pro1_xs5.jpg"
+    ]
+
+  },
+  {
+    "gid": "2",
+    "gName": "梦芭莎优雅貉子毛装",
+    "gPrice": "639",
+    "gImg": "./../server/images/yx_pic2.jpg",
+    "mImg": [
+      "./../server/images/pro2_m1.jpg",
+      "./../server/images/pro2_m2.jpg",
+      "./../server/images/pro2_m3.jpg",
+      "./../server/images/pro2_m4.jpg",
+      "./../server/images/pro2_m5.jpg"
+    ],
+    "bImg": [
+      "./../server/images/pro2_b1.jpg",
+      "./../server/images/pro2_b2.jpg",
+      "./../server/images/pro2_b3.jpg",
+      "./../server/images/pro2_b4.jpg",
+      "./../server/images/pro2_b5.jpg"
+    ],
+    "colors": [
+      {
+        "colorName": "深灰色",
+        "colorImg": "./../server/images/pro2_s1.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "indexImg": [
+      "./../server/images/pro2_xs1.jpg",
+      "./../server/images/pro2_xs2.jpg",
+      "./../server/images/pro2_xs3.jpg",
+      "./../server/images/pro2_xs4.jpg",
+      "./../server/images/pro2_xs5.jpg"
+    ]
+  },
+  {
+    "gid": "3",
+    "gName": "戎惠手缝双面呢羊毛大衣",
+    "gPrice": "1120",
+    "gImg": "./../server/images/yx_pic3.jpg"
+  },
+  {
+    "gid": "4",
+    "gName": "优雅彩色千鸟格羊毛呢西装外套",
+    "gPrice": "369",
+    "gImg": "./../server/images/yx_pic4.jpg"
+  },
+  {
+    "gid": "5",
+    "gName": "精品丝绒撞蕾丝袖套头衫",
+    "gPrice": "89",
+    "gImg": "./../server/images/yx_pic5.jpg",
+    "mImg": [
+      "./../server/images/pro5_m.jpg",
+      "./../server/images/pro5_m2.jpg",
+      "./../server/images/pro5_m3.jpg",
+      "./../server/images/pro5_m4.jpg",
+      "./../server/images/pro5_m5.jpg"
+    ],
+    "bImg": [
+      "./../server/images/pro5_b.jpg",
+      "./../server/images/pro5_b2.jpg",
+      "./../server/images/pro5_b3.jpg",
+      "./../server/images/pro_b4.jpg",
+      "./../server/images/pro_b5.jpg"
+    ],
+    "colors": [
+      {
+        "colorName": "杏色",
+        "colorImg": "./../server/images/pro5_s1.jpg"
+      },
+      {
+        "colorName": "黑色",
+        "colorImg": "./../server/images/pro5_s2.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "indexImg": [
+      "./../server/images/pro5_xs1.jpg",
+      "./../server/images/pro5_xs2.jpg",
+      "./../server/images/pro5_xs3.jpg",
+      "./../server/images/pro_xs4.jpg",
+      "./../server/images/pro_xs5.jpg"
+    ]
+  },
+  {
+    "gid": "6",
+    "gName": "优雅简约V字领羊毛毛织连衣裙",
+    "gPrice": "399",
+    "gImg": "./../server/images/yx_pic6.jpg"
+  },
+  {
+    "gid": "7",
+    "gName": "进口韩国绒前开衩摆拼蕾丝半裙",
+    "gPrice": "109",
+    "gImg": "./../server/images/yx_pic9.jpg"
+  },
+  {
+    "gid": "8",
+    "gName": "知性都市蕾丝内衣无钢圈",
+    "gPrice": "149",
+    "gImg": "./../server/images/yx_pic10.jpg"
+  }
+]

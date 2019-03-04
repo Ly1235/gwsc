@@ -1,0 +1,452 @@
+.header{
+
+    background: url("../img/cart_1.jpg") repeat-x scroll 0 26px transparent;
+    margin: 0 auto;
+    width: 100%;
+    height: 119px;
+}
+.header_con{
+    width: 1200px;
+    margin: 0 auto;
+    height: 119px;
+}
+.header .header_con .logo{
+    width: 196px;
+    height: 107px;
+    float: left;
+    padding-left: 23px;
+}
+.header .practice {
+    float: left;
+    color: #e8e8e8;
+}
+.header .practice span {
+    display: inline-block;
+    line-height: 26px;
+    padding: 0 10px 0 12px;
+    color: #747474;
+}
+.header .login_info{
+    width: auto;
+    height: 26px;
+    position: relative;
+    float: right;
+    z-index: 11;
+}
+.header .helpmsg {
+    float: right;
+    padding-top: 2px;
+}
+.header .helpmsg span {
+    display: inline-block;
+    padding: 0 5px;
+
+}
+
+.header .helpmsg a {
+    display: inline-block;
+    color: #747474;
+    padding: 0 5px;
+}
+.header .helpmsg a.weixin {
+    position: relative;
+    padding-left: 32px;
+    background: url("../img/cart_icon.jpg") no-repeat;
+    background-position: 10px 4px;
+}
+.header .helpmsg a.weixin img{
+    position: absolute;
+    left: -30px;
+    top: 22px;
+    display: none;
+}
+.header .helpmsg a.mobile {
+    position: relative;
+    padding-left: 32px;
+    background: url("../img/cart_icon.jpg") no-repeat;
+    background-position: 10px -64px;
+}
+.header .helpmsg a.mobile img{
+    position: absolute;
+    left: -60px;
+    top: 22px;
+    display: none;
+}
+
+.loginmsg{
+    width: auto;
+    float: right;
+    height: 16px;
+    padding: 5px 0;
+    color: #747474;
+    line-height: 16px;
+    text-align: right;
+}
+.header .loginmsg a{
+    float: right;
+    color: #747474;
+}
+.header .loginmsg span{
+    float: right;
+    padding: 0 5px;
+}
+.header .loginmsg a{
+    float: right;
+    color: #747474
+}
+.stepby{
+    width: 618px;
+    height: 25px;
+    float: right;
+    margin-top: 33px;
+    background-image: url("../img/progressBar.gif");
+    background-position: 0 0;
+}
+
+.cramain{
+    margin: 0 auto;
+    padding-top: 13px;
+    width: 1200px;
+}
+.carbody{
+    margin: 0 auto;
+    width: 1200px;
+}
+.car_title{
+    width: 1200px;
+    height: 36px;
+    background: #ebebeb;
+    margin: 0 auto;
+    line-height: 47px;
+}
+.car_title dl{
+    margin: 0 auto;
+    width: 1118px;
+    
+}
+.car_title dl dt{
+    float: left;
+    padding-left: 40px;
+    width: 40px;
+    line-height: 13px;
+}
+.car_title dl dt input{
+    margin: 12px 12px 0;
+    width: 13px;
+    height: 13px;
+}
+.car_title dl dd {
+    float: left;
+    height: 36px;
+    color: #414141;
+    font-size: 14px;
+    font-family: "宋体";
+    line-height: 36px;
+}
+.car_title dl dd.qb {
+    width: 56px;
+    text-align: left;
+}
+.car_title dl dd.sp {
+    width: 440px;
+    text-align: center;
+}
+.car_title dl dd.dj {
+    width: 150px;
+    text-align: center;
+}
+.car_title dl dd.sl {
+    width: 100px;
+    text-align: center;
+}
+.car_title dl dd.jexj {
+    width: 192px;
+    text-align: center;
+}
+.car_title dl dd.cz {
+    width: 58px;
+    text-align: left;
+}
+.buygoods{
+    margin: 0 auto;
+    width: 1198px;
+    padding-top: 9px;
+    border-top: solid 1px #e1e1e1;
+    border-right: solid 1px #ebebeb;
+    border-bottom: solid 1px #ebebeb;
+    border-left: solid 1px #ebebeb;
+}
+.shop {
+    float: left;
+    margin: 0 auto;
+    padding-left: 40px;
+    width: 1118px;
+}
+
+
+.shop .shop_title {
+    margin: 0 auto;
+    width: 1118px;
+    height: 30px;
+    background: #f5f5f5;
+    color: #5d5d5d;
+    font-size: 13px;
+    line-height: 30px;
+}
+.shangjia {
+    margin-right: 5px;
+    margin-left: 46px;
+    color: #333;
+    font-size: 12px;
+}
+.yunfei {
+    color: #333;
+}
+
+.shop_title .red {
+    color: #d90077;
+    font-weight: 700;
+}
+
+.nr {
+    float: left;
+    margin-left: 0;
+    width: 1118px;
+}
+.nr dl {
+    margin: 0 auto;
+    width: 1118px;
+    color: #414141;
+    font-size: 14px;
+    font-family: "宋体";
+    float: left;
+}
+.nr dt {
+    float: left;
+    display: block;
+    padding-left: 40px;
+    width: 40px;
+    height: 67px;
+    line-height: 67px;
+}
+.nr dt input {
+    margin: 0 12px;
+    width: 13px;
+    height: 67px;
+}
+.nr dd {
+    float: left;
+    color: #414141;
+    font-size: 14px;
+    font-family: "宋体";
+}
+.nr .sp {
+    width: 476px;
+    line-height: 19px;
+}
+.sp .left {
+    float: left;
+    width: 70px;
+}
+.sp .left img{
+    margin: 6px 0 0 10px;
+    width: 39px;
+    height: 53px;
+    border: 1px solid #eeeced;
+}
+.sp .right {
+    float: right;
+    padding: 15px 0;
+    width: 406px;
+}
+.spmc {
+    float: left;
+    width: 406px;
+    color: #5c5c5c;
+    text-align: left;
+    font-size: 12px;
+    font-family: "宋体";
+    line-height: 18px;
+}
+.goods-link {
+    color: #5B5B5B;
+}
+.zhiliao {
+    float: left;
+    width: 406px;
+    color: #9d9d9d;
+    text-align: left;
+    font-size: 12px;
+    font-family: "宋体";
+    line-height: 18px;
+}
+.nr .dj {
+    display: inline;
+    padding-top: 20px;
+    width: 115px;
+    text-align: center;
+    font-size: 12px;
+}
+.price {
+    width: 115px;
+    height: 18px;
+    color: #000;
+    text-align: right;
+    line-height: 18px;
+}
+.price-icon {
+    font-size: 12px;
+    font-family: "微软雅黑";
+}
+.nr dd.sl {
+     padding-top: 20px;
+     padding-left: 70px;
+     width: 95px;
+     text-align: center;
+ }
+.nr .jexj {
+    padding-top: 20px;
+    width: 118px;
+    color: #d90077;
+    text-align: right;
+    font-size: 12px;
+    font-family: "宋体";
+    line-height: 20px;
+}
+.nr .cz {
+    position: relative;
+    padding-top: 12px;
+    width: 158px;
+    text-align: center;
+}
+.nr .cz .xiugai {
+    overflow: hidden;
+    margin: 0 auto;
+    width: 50px;
+    height: 24px;
+    color: #000;
+    font-size: 12px;
+    font-family: "宋体";
+    line-height: 24px;
+}
+.operation {
+    cursor: pointer;
+}
+.nr .cz .shanchu {
+    margin: 0 auto;
+    height: 18px;
+    color: #a6a6a6;
+    font-size: 12px;
+    line-height: 18px;
+    padding: 10px 0;
+}
+.num {
+    width: 30px;
+    height: 24px;
+    border-top: solid 1px #ebebeb;
+    border-right: none;
+    border-bottom: solid 1px #ebebeb;
+    border-left: none;
+    text-align: center;
+    font-size: 12px;
+    font-family: "宋体";
+    line-height: 24px;
+    float: left;
+}
+.add,.minus {
+    float: left;
+    overflow: hidden;
+    width: 18px;
+    height: 24px;
+    border: 1px solid #ebebeb;
+    color: #000;
+    text-align: center;
+    line-height: 24px;
+}
+.cleargoods {
+    float: left;
+    padding-top: 17px;
+    padding-left: 40px;
+    width: 1118px;
+    height: 40px;
+}
+.goodsmoney {
+    float: left;
+    margin-bottom: 25px;
+    width: 1118px;
+    height: 25px;
+}
+.goodsmoney .zs {
+
+    text-align: right;
+    font-size: 12px;
+    font-family: "宋体";
+    line-height: 30px;
+}
+.goodsmoney .zs .pics {
+    color: #d90075;
+    font-weight: 700;
+}
+.goodsmoney .zs .zj {
+    font-weight: 700;
+}
+.goodsmoney .zs .rmb {
+    color: #d60076;
+    font-size: 14px;
+    font-family: "微软雅黑";
+}
+.goodsmoney .zs .howmuch {
+    color: #d60076;
+    font-weight: 700;
+    font-size: 18px;
+    font-family: Arial,Helvetica,sans-serif;
+}
+
+
+.paym {
+    margin: 0 auto;
+    padding-left: 40px;
+    width: 1158px;
+    height: 170px;
+    border-right: solid 1px #ebebeb;
+    border-bottom: solid 1px #ebebeb;
+    border-left: solid 1px #ebebeb;
+}
+.moreorpay {
+    float: left;
+    width: 1118px;
+    height: 40px;
+    text-align: right;
+}
+.fl{
+    float: left;
+}
+.pay_code{
+    position: absolute;
+    margin-top: -90px;
+    margin-bottom: 50px;
+    margin-left: 40px;
+}
+.sao_code{
+    margin-top: -70px;
+    margin-left: 178px;
+    position: absolute;
+    margin-bottom: 50px;
+
+}
+.fr{
+    float: right;
+}
+.toSettlement {
+    display: inline-block;
+    width: 226px;
+    height: 48px;
+    color: #fff;
+    text-align: center;
+    font-size: 22px;
+    line-height: 48px;
+}
+.display-btn{
+    background: #D9D9D9;
+    cursor: default;
+}
